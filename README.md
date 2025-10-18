@@ -1,17 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Nayananshu Garai
 
-<!--
-**N-Garai/N-Garai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Quantum mechanics enthusiast | 💻 Machine learning engineer | 🧠 Algorithmic problem solver  
+📍 Based in Kolkata, India | 🚀 Actively contributing to open source & science-tech communities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm deeply passionate about bridging theory with real-world applications — especially in quantum computing,machine learning, and information theory. I thrive on collaborative coding, reproducible workflows, and elegant problem-solving.
+
+- 🔬 Learning quantum algorithms & physical implementation.
+- 🧰 Skilled in Python, Java, R, C.
+- 🛠️ Advanced debugging, log analysis & deployment troubleshooting.
+- 🤖 Skilled in Machine learning.
+- 📦 Contributor to open source projects & hackathons.
+
+---
+
+## 🌟 Current Goals
+
+- 🎯 **Hacktoberfest 2025**: Making 6+ high-quality PRs and engaging with maintainers
+- 🎯 **NASA Space App Challange 2025**: Participating in NASA Space App Challange in 2025 as a leader of team-CosmoVoyager  
+- 🧪 Exploring quantum-classical hybrid algorithms and experimental setups
+
+---
+
+## 🏅 Badges & Achievements
+
 [![Holopin Badges](https://holopin.io/api/user/ngarai/badges)](https://holopin.io/@ngarai)
+
+> 🏆 Hacktoberfest 2025 Badge ID: `cmgs2fzg30006ia04h2fgqtpj`  
+> Earned for registering and contributing to open source during Hacktoberfest 2025.
+
+---
+
+## 📂 Featured Projects
+
+- 🔗 [Anime_analysis_report](https://github.com/N-Garai/Anime_analysis_report.git)
+- 🔗 [Titanic-Machine-Learning-from-Disaster---Comprehensive-Analysis](https://github.com/N-Garai/Titanic-Machine-Learning-from-Disaster---Comprehensive-Analysis.git)
+- 🔗 [ReliefBridge](https://github.com/N-Garai/ReliefBridge.git)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](www.linkedin.com/in/nayananshu-garai)
+- 🧠 [Holopin Profile](https://holopin.io/@ngarai)
+
+---
+
+> “Clarity, reproducibility, and collaboration — the pillars of every great solution.”
+
