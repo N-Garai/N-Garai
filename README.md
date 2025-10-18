@@ -27,7 +27,7 @@ I'm deeply passionate about bridging theory with real-world applications — esp
 
 ## 🏅 Badges & Achievements
 
-[![Holopin Badges](https://holopin.io/api/user/ngarai/badges)](https://holopin.io/@ngarai)
+[![Holopin Badges](https://holopin.io/api/user/ngarai/badges)](https://www.holopin.io/@ngarai#badges)
 
 > 🏆 Hacktoberfest 2025 Badge ID: `cmgs2fzg30006ia04h2fgqtpj`  
 > Earned for registering and contributing to open source during Hacktoberfest 2025.
