@@ -288,7 +288,11 @@ class Nayananshu:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayananshu-garai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nayananshu-garai-portfolio.vercel.app/)
 [![Holopin](https://img.shields.io/badge/Holopin-View_Profile-7B42BC?style=for-the-badge&logo=holopin&logoColor=white)](https://holopin.io/@ngarai)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayananshugarai@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-Garai)
+
+### 🌐 Find Me Around The Web
+💼 Professional: [LinkedIn](https://www.linkedin.com/in/nayananshu-garai) • [Portfolio](https://nayananshu-garai-portfolio.vercel.app/)  
+🏆 Achievements: [Holopin Badges](https://holopin.io/@ngarai) • [GitHub](https://github.com/N-Garai)
 
 </div>
 
