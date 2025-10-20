@@ -267,16 +267,46 @@ class Nayananshu:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=N-Garai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Garai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/N-Garai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N-Garai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450"/>
+</a>
+<a href="https://github.com/N-Garai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Garai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=450"/>
+</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-Garai&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-Garai&theme=tokyonight&hide_border=true)](https://github.com/N-Garai)
 
 </div>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+[![Nayananshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N-Garai&theme=tokyo-night&hide_border=true)](https://github.com/N-Garai)
+
+</div>
+
+<details>
+<summary>📊 More GitHub Stats</summary>
+<br>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-Garai&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N-Garai&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N-Garai&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N-Garai&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N-Garai&theme=tokyonight)
+
+</div>
+
+</details>
 
 
 ---
