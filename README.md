@@ -19,9 +19,9 @@ I'm deeply passionate about bridging theory with real-world applications — esp
 
 ## 🌟 Current Goals
 
-- 🎯 **Hacktoberfest 2025**: Making 6+ high-quality PRs and engaging with maintainers
-- 🎯 **NASA Space App Challange 2025**: Participating in NASA Space App Challange in 2025 as a leader of team-CosmoVoyager  
-- 🧪 Exploring quantum-classical hybrid algorithms and experimental setups
+- 🎯 **Learning ML**: Started learning machine learning & implementing in real world project
+- 🎯 **Understanding the way of data**: Learing Data analysis/data pre-processing
+- 🧪 Exploring quantum algorithms and experimental setups
 
 ---
 
@@ -45,6 +45,7 @@ I'm deeply passionate about bridging theory with real-world applications — esp
 
 - 💼 [LinkedIn](www.linkedin.com/in/nayananshu-garai)
 - 🧠 [Holopin Profile](https://holopin.io/@ngarai)
+- 🌐 **Website**: [Nayananshu Garai](https://nayananshu-garai-portfolio.vercel.app/)
 
 ---
 
