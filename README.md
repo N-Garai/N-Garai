@@ -216,7 +216,34 @@ class Nayananshu:
 
 <div align="center">
 
-[![Holopin Badges](https://holopin.io/api/user/ngarai/badges)](https://www.holopin.io/@ngarai#badges)
+### 🌟 Hacktoberfest 2025 Super Contributor
+[![Holopin Badges](https://holopin.io/api/user/ngarai/badges)](https://www.holopin.io/@ngarai)
+
+*All 6 Pull Requests Accepted! [View Full Profile](https://www.holopin.io/@ngarai)*
+
+### 🎓 Google Skills Profile
+[![Google Skills Badge](https://img.shields.io/badge/Google-Skills_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/d245f23b-85be-4921-840d-d18869ed0fe5)
+
+*Verified skills and achievements in technology and development.*
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.holopin.io/@ngarai">
+<img src="https://img.shields.io/badge/Hacktoberfest_2025-Super_Contributor-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
+<br>
+<sub>6/6 PRs Accepted ✅</sub>
+</a>
+</td>
+<td align="center">
+<a href="https://www.skills.google/public_profiles/d245f23b-85be-4921-840d-d18869ed0fe5">
+<img src="https://img.shields.io/badge/Google-Verified_Skills-34A853?style=for-the-badge&logo=google&logoColor=white" />
+<br>
+<sub>Professional Development 🎯</sub>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
