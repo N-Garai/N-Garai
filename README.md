@@ -125,21 +125,36 @@ class Nayananshu:
 <table>
 <tr>
 <td width="50%" align="center">
+<img src="https://img.shields.io/badge/IISc_x_Qiskit-Fall_Fest_Winner-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+<br><br>
+<h3>⚛️ IISc x Qiskit Fall Fest 2025</h3>
+<p><b>Winner - Team Q-Bit</b></p>
+<p>Won the prestigious IISc x Qiskit Fall Fest 2025 in the Quantum Transport track as a member of Team Q-Bit. Demonstrated excellence in quantum computing concepts and innovative problem-solving in quantum transport applications.</p>
+<br>
+<a href="https://nayananshu-garai-portfolio.vercel.app/IISc%20x%20Qiskit%20Fall%20fest%20winner.pdf">
+<img src="https://img.shields.io/badge/View-Certificate-6929C4?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+</a>
+</td>
+<td width="50%" align="center">
 <img src="https://img.shields.io/badge/NASA-Space_Apps_2025-E03C31?style=for-the-badge&logo=nasa&logoColor=white" />
 <br><br>
 <h3>🚀 NASA Space Apps Challenge 2025</h3>
 <p><b>Team Leader - Cosmo-Voyager</b></p>
 <p>Led a team in NASA's international hackathon, developing innovative solutions for space exploration challenges. Showcased technical leadership and collaborative problem-solving skills.</p>
-</td>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/Hacktoberfest-2025-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
-<br><br>
-<h3>🎃 Hacktoberfest 2025</h3>
-<p><b>Open Source Contributor</b></p>
-<p>Successfully completed Hacktoberfest 2025 by contributing to multiple open-source projects. Made meaningful contributions to the global developer community.</p>
+<br>
+<a href="https://nayananshu-garai-portfolio.vercel.app/NASA-Space-Apps-Challenge-2025.pdf">
+<img src="https://img.shields.io/badge/View-Certificate-E03C31?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+</a>
 </td>
 </tr>
 <tr>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/Hacktoberfest-Supercontributor_2025-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
+<br><br>
+<h3>🎃 Hacktoberfest Supercontributor 2025</h3>
+<p><b>Distinguished Open Source Contributor</b></p>
+<p>Achieved Supercontributor status in Hacktoberfest 2025 with 6 accepted pull requests, demonstrating exceptional commitment to open-source development. Made significant contributions that were recognized and merged by project maintainers.</p>
+</td>
 <td width="50%" align="center">
 <img src="https://img.shields.io/badge/Perplexity-Campus_Partner-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white" />
 <br><br>
@@ -147,12 +162,14 @@ class Nayananshu:
 <p><b>2025</b></p>
 <p>Selected as a Perplexity Student Campus Partner to promote AI-powered learning and innovation on campus.</p>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center">
-<img src="https://img.shields.io/badge/Projects-5+-00C853?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Projects-6+-00C853?style=for-the-badge&logo=github&logoColor=white" />
 <br><br>
-<h3>💻 5+ Projects Completed</h3>
-<p><b>ML, Data Science & AI</b></p>
-<p>Successfully delivered multiple projects spanning Machine Learning, Data Analysis, and AI-driven applications.</p>
+<h3>💻 6+ Projects Completed</h3>
+<p><b>ML, Data Science, AI & Quantum</b></p>
+<p>Successfully delivered multiple projects spanning Machine Learning, Data Analysis, AI-driven applications, and Quantum Computing.</p>
 </td>
 </tr>
 </table>
@@ -257,11 +274,20 @@ class Nayananshu:
 <table>
 <tr>
 <td width="33%" align="center">
+<a href="https://github.com/N-Garai/Quantum-tower-defence">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Garai&repo=Quantum-tower-defence&theme=tokyonight&hide_border=true" />
+</a>
+<br>
+<b>⚛️ Quantum Tower Defence</b>
+<br>
+<sub>Educational quantum game with Qiskit & Pygame</sub>
+</td>
+<td width="33%" align="center">
 <a href="https://github.com/N-Garai/Anime_analysis_report">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Garai&repo=Anime_analysis_report&theme=tokyonight&hide_border=true" />
 </a>
 <br>
-<b>� Anime Analysis Report</b>
+<b>📊 Anime Analysis Report</b>
 <br>
 <sub>Data analysis and visualization of anime datasets</sub>
 </td>
