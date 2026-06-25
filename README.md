@@ -363,7 +363,7 @@ class Nayananshu:
 
 ![GitHub Followers](https://img.shields.io/github/followers/N-Garai?style=for-the-badge&logo=github&label=Followers&color=blue)
 ![GitHub Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&color=green&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FN-Garai)
-![Total Contributions](https://img.shields.io/badge/Contributions-0-brightgreen?style=for-the-badge&logo=github)
+![Total Contributions](https://img.shields.io/badge/Contributions-468-brightgreen?style=for-the-badge&logo=github)
 
 </div>
 
