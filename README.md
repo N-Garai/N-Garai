@@ -80,10 +80,10 @@ class Nayananshu:
 <tr>
 <td width="50%">
 
-### 🎯 Machine Learning
-- 📚 Learning ML fundamentals
-- 🔬 Implementing in real-world projects
-- 🧪 Exploring advanced algorithms
+### 🤖 AI & Machine Learning
+- 📚 Learning AI/ML fundamentals
+- 🔬 Building intelligent systems & models
+- 🧪 Exploring deep learning & generative AI
 
 </td>
 <td width="50%">
@@ -163,15 +163,7 @@ class Nayananshu:
 <p>Selected as a Perplexity Student Campus Partner to promote AI-powered learning and innovation on campus.</p>
 </td>
 </tr>
-<tr>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/Projects-6+-00C853?style=for-the-badge&logo=github&logoColor=white" />
-<br><br>
-<h3>💻 6+ Projects Completed</h3>
-<p><b>ML, Data Science, AI & Quantum</b></p>
-<p>Successfully delivered multiple projects spanning Machine Learning, Data Analysis, AI-driven applications, and Quantum Computing.</p>
-</td>
-</tr>
+
 </table>
 
 </div>
@@ -220,6 +212,17 @@ class Nayananshu:
 **Quantum Computing Certificate** (2025)
 <br>
 <sub>Advanced quantum computing from IIT Roorkee</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Harvard](https://img.shields.io/badge/Harvard-Data_Science-A51C30?style=for-the-badge&logo=edx&logoColor=white)](https://credentials.edx.org/credentials/093420c4b05b4b088cc1f077650a5099/)
+<br>
+**Harvard Data Science Professional Certificate** (2025)
+<br>
+<sub>Comprehensive data science training from Harvard University</sub>
 
 </td>
 </tr>
@@ -273,7 +276,7 @@ class Nayananshu:
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <a href="https://github.com/N-Garai/Quantum-tower-defence">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Garai&repo=Quantum-tower-defence&theme=tokyonight&hide_border=true" />
 </a>
@@ -282,7 +285,7 @@ class Nayananshu:
 <br>
 <sub>Educational quantum game with Qiskit & Pygame</sub>
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <a href="https://github.com/N-Garai/Anime_analysis_report">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Garai&repo=Anime_analysis_report&theme=tokyonight&hide_border=true" />
 </a>
@@ -291,7 +294,7 @@ class Nayananshu:
 <br>
 <sub>Data analysis and visualization of anime datasets</sub>
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <a href="https://github.com/N-Garai/Titanic-Machine-Learning-from-Disaster---Comprehensive-Analysis">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Garai&repo=Titanic-Machine-Learning-from-Disaster---Comprehensive-Analysis&theme=tokyonight&hide_border=true" />
 </a>
@@ -300,7 +303,7 @@ class Nayananshu:
 <br>
 <sub>Comprehensive ML analysis of Titanic dataset</sub>
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <a href="https://github.com/N-Garai/ReliefBridge">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Garai&repo=ReliefBridge&theme=tokyonight&hide_border=true" />
 </a>
@@ -308,6 +311,44 @@ class Nayananshu:
 <b>🌉 ReliefBridge</b>
 <br>
 <sub>Connecting communities with relief resources</sub>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+<a href="https://github.com/N-Garai/Shadow-Jury">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Garai&repo=Shadow-Jury&theme=tokyonight&hide_border=true" />
+</a>
+<br>
+<b>⚖️ Shadow Jury</b>
+<br>
+<sub>AI-powered legal document analysis platform</sub>
+</td>
+<td width="25%" align="center">
+<a href="https://github.com/N-Garai/CifraSync">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Garai&repo=CifraSync&theme=tokyonight&hide_border=true" />
+</a>
+<br>
+<b>🔐 CifraSync</b>
+<br>
+<sub>Secure encrypted file synchronization tool</sub>
+</td>
+<td width="25%" align="center">
+<a href="https://github.com/N-Garai/Wild-Book">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Garai&repo=Wild-Book&theme=tokyonight&hide_border=true" />
+</a>
+<br>
+<b>🌿 Wild Book</b>
+<br>
+<sub>Wildlife observation and documentation platform</sub>
+</td>
+<td width="25%" align="center">
+<a href="https://github.com/N-Garai/Aimo-Solver">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Garai&repo=Aimo-Solver&theme=tokyonight&hide_border=true" />
+</a>
+<br>
+<b>🧠 Aimo Solver</b>
+<br>
+<sub>AI-powered math optimization solver</sub>
 </td>
 </tr>
 </table>
@@ -340,6 +381,14 @@ class Nayananshu:
 ### 📈 Contribution Graph
 
 [![Nayananshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N-Garai&theme=tokyo-night&hide_border=true)](https://github.com/N-Garai)
+
+</div>
+
+<div align="center">
+
+**🏆 Total Contributions (last year):** <!-- TOTAL_CONTRIB -->0<!-- TOTAL_CONTRIB_END -->
+
+![GitHub Contribution Snake](assets/github-contribution-snake-dark.svg)
 
 </div>
 
