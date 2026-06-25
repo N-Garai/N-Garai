@@ -392,6 +392,7 @@ class Nayananshu:
 
 </div>
 
+
 <details>
 <summary>📊 More GitHub Stats</summary>
 <br>
