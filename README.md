@@ -361,8 +361,16 @@ class Nayananshu:
 
 <div align="center">
 
+![GitHub Followers](https://img.shields.io/github/followers/N-Garai?style=for-the-badge&logo=github&label=Followers&color=blue)
+![GitHub Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&color=green&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FN-Garai)
+![Total Contributions](https://img.shields.io/badge/Contributions-0-brightgreen?style=for-the-badge&logo=github)
+
+</div>
+
+<div align="center">
+
 <a href="https://github.com/N-Garai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N-Garai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N-Garai&show_icons=true&theme=tokyonight&hide_border=true&card_width=450"/>
 </a>
 <a href="https://github.com/N-Garai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Garai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=450"/>
@@ -381,14 +389,6 @@ class Nayananshu:
 ### 📈 Contribution Graph
 
 [![Nayananshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N-Garai&theme=tokyo-night&hide_border=true)](https://github.com/N-Garai)
-
-</div>
-
-<div align="center">
-
-**🏆 Total Contributions (last year):** <!-- TOTAL_CONTRIB -->0<!-- TOTAL_CONTRIB_END -->
-
-![GitHub Contribution Snake](assets/github-contribution-snake-dark.svg)
 
 </div>
 

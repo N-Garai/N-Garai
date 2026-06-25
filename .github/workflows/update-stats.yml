@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "main" ]
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,11 +15,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch total contributions
+      - name: Fetch comprehensive GitHub stats
         id: stats
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          USER=$(gh api users/N-Garai --jq '{repos: .public_repos, followers: .followers}')
+          REPOS=$(echo "$USER" | jq -r '.repos')
+          FOLLOWERS=$(echo "$USER" | jq -r '.followers')
+
           TOTAL=$(gh api graphql -f query='
             query {
               user(login: "N-Garai") {
@@ -30,27 +34,23 @@ jobs:
                 }
               }
             }' --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+
+          echo "repos=$REPOS" >> "$GITHUB_OUTPUT"
+          echo "followers=$FOLLOWERS" >> "$GITHUB_OUTPUT"
           echo "total=$TOTAL" >> "$GITHUB_OUTPUT"
 
-      - name: Update README with total contributions
+      - name: Update README badges
         run: |
+          REPOS=${{ steps.stats.outputs.repos }}
+          FOLLOWERS=${{ steps.stats.outputs.followers }}
           TOTAL=${{ steps.stats.outputs.total }}
-          sed -i "s/<!-- TOTAL_CONTRIB -->[0-9]*<!-- TOTAL_CONTRIB_END -->/<!-- TOTAL_CONTRIB -->$TOTAL<!-- TOTAL_CONTRIB_END -->/g" README.md
 
-      - name: Generate Contribution Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: N-Garai
-          outputs: |
-            assets/github-contribution-snake.svg
-            assets/github-contribution-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          sed -i "s|\(badge/Contributions-\)[0-9]*\(-brightgreen\)|\1$TOTAL\2|g" README.md
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/
+          git add README.md
           git diff --staged --quiet || git commit -m "chore: update GitHub stats [skip ci]"
           git push
