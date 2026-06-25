@@ -37,7 +37,7 @@ class Nayananshu:
         self.achievements = {
             "projects": "5+",
             "certifications": "4+",
-            "hackathons": ["NASA Space Apps 2025", "Hacktoberfest 2025"]
+            "hackathons": ["NASA Space Apps 2025", "Hacktoberfest 2025","IISc x Qiskit Fall Fest'25 Superpose hackathon--winner"]
         }
     
     def say_hi(self):
