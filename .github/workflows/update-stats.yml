@@ -3,6 +3,8 @@ name: Update GitHub Stats
 on:
   push:
     branches: [ "main" ]
+  schedule:
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,5 +15,32 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Check for stale data
-        run: echo "All badges are live (followers, repos via shields.io API). No manual update needed."
+      - name: Fetch total contributions
+        id: stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TOTAL=$(gh api graphql -f query='
+            query {
+              user(login: "N-Garai") {
+                contributionsCollection {
+                  contributionCalendar {
+                    totalContributions
+                  }
+                }
+              }
+            }' --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+          echo "total=$TOTAL" >> "$GITHUB_OUTPUT"
+
+      - name: Update contributions badge
+        run: |
+          TOTAL=${{ steps.stats.outputs.total }}
+          sed -i "s|\(badge/Contributions-\)[0-9]*\(-brightgreen\)|\1$TOTAL\2|g" README.md
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update contributions count [skip ci]"
+          git push
