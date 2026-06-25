@@ -304,13 +304,13 @@ class Nayananshu:
 <sub>Comprehensive ML analysis of Titanic dataset</sub>
 </td>
 <td width="25%" align="center">
-<a href="https://github.com/N-Garai/ReliefBridge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Garai&repo=ReliefBridge&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/N-Garai/Rumor-Signal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=N-Garai&repo=Rumor-Signal&theme=tokyonight&hide_border=true" />
 </a>
 <br>
-<b>🌉 ReliefBridge</b>
+<b>📡 Rumor Signal</b>
 <br>
-<sub>Connecting communities with relief resources</sub>
+<sub>AI agent that detects fake news from trusted sources</sub>
 </td>
 </tr>
 <tr>
