@@ -386,7 +386,7 @@ class Nayananshu:
 
 <div align="center">
 
-**🏆 Total Contributions (last year):** <!-- TOTAL_CONTRIB -->0<!-- TOTAL_CONTRIB_END -->
+**🏆 Total Contributions (last year):** <!-- TOTAL_CONTRIB -->372<!-- TOTAL_CONTRIB_END -->
 
 ![GitHub Contribution Snake](assets/github-contribution-snake-dark.svg)
 
