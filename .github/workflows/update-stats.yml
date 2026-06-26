@@ -23,7 +23,7 @@ jobs:
           TOTAL=$(gh api graphql -f query='
             query {
               user(login: "N-Garai") {
-                contributionsCollection {
+                contributionsCollection(from: "2025-02-13T00:00:00Z") {
                   contributionCalendar {
                     totalContributions
                   }

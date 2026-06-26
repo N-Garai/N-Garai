@@ -371,19 +371,12 @@ class Nayananshu:
 <div align="center">
 
 <a href="https://github.com/N-Garai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N-Garai&show_icons=true&theme=tokyonight&hide_border=true&card_width=450"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N-Garai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=450"/>
 </a>
 <a href="https://github.com/N-Garai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Garai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=450"/>
 </a>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-Garai&theme=tokyonight&hide_border=true)](https://github.com/N-Garai)
-
-</div>
 
 <div align="center">
 
