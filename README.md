@@ -382,7 +382,7 @@ class Nayananshu:
 
 ### 📈 Contribution Graph
 
-[![Nayananshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N-Garai&theme=tokyo-night&hide_border=true)](https://github.com/N-Garai)
+[![Nayananshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N-Garai&theme=tokyo-night&hide_border=true&cache_seconds=0&days=365)](https://github.com/N-Garai)
 
 </div>
 
