@@ -170,6 +170,34 @@ class Nayananshu:
 
 ---
 
+## 🌍 Open Source Contributions
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" align="center">
+
+[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft)
+[![cat-agent-skills](https://img.shields.io/badge/cat--agent--skills-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/microsoft/cat-agent-skills)
+[![PR Merged](https://img.shields.io/badge/PR-%23155-Merged-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/microsoft/cat-agent-skills/pull/155)
+
+<br><br>
+
+### ✅ Merged PR — Microsoft `cat-agent-skills`
+
+**Fixed the CI workflow** so generated content guides are correctly committed alongside skills and bundles in PR builds.
+
+<sub>🔗 [View Pull Request #155](https://github.com/microsoft/cat-agent-skills/pull/155) | 💪 Contributing to open-source AI agent ecosystems</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🏅 Certifications
 
 <div align="center">
