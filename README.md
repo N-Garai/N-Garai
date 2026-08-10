@@ -178,21 +178,18 @@ class Nayananshu:
 <tr>
 <td width="100%" align="center">
 
-[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft)
-[![cat-agent-skills](https://img.shields.io/badge/cat--agent--skills-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/microsoft/cat-agent-skills)
-[![PR Merged](https://img.shields.io/badge/PR-%23155-Merged-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/microsoft/cat-agent-skills/pull/155)
-
-<br><br>
-
-### ✅ Merged PR — Microsoft `cat-agent-skills`
-
-**Fixed the CI workflow** so generated content guides are correctly committed alongside skills and bundles in PR builds.
-
-<sub>🔗 [View Pull Request #155](https://github.com/microsoft/cat-agent-skills/pull/155) | 💪 Contributing to open-source AI agent ecosystems</sub>
+| | |
+|:---|:---|
+| **Repository** | [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft) [![cat-agent-skills](https://img.shields.io/badge/cat--agent--skills-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/microsoft/cat-agent-skills) |
+| **Pull Request** | [![PR #155](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=PR%20%23155&color=00C853&query=state&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmicrosoft%2Fcat-agent-skills%2Fpulls%2F155)](https://github.com/microsoft/cat-agent-skills/pull/155) |
+| **What I fixed** | Fixed the CI workflow to commit generated content guides alongside skills and bundles in PR builds |
+| **Status** | ✅ Merged &amp; shipped to `main` |
 
 </td>
 </tr>
 </table>
+
+<sub>💪 Actively contributing to open-source AI agent ecosystems</sub>
 
 </div>
 
